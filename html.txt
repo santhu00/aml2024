@@ -1,0 +1,21 @@
+1<!doctype html>
+<html>
+<head>
+<title>announcement</title>
+</head>
+<body>
+<h1>Welcome to our university<h1>
+<h2>news and announcement<h2>
+<nav>
+<ul>
+<li><a href="url">Important announcement1</a></li>
+<li><a href="url">Important announcement2</a></li>
+<li><a href="url">Important announcement3</a></li>
+<li><a href="url">Important announcement4</a></li>
+</ul></nav>
+<p>welcome to our univeersity<p>
+<footer>
+<p>@copy1997 my website
+</footer
+</body>
+</html>
